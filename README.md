@@ -13,6 +13,5 @@ The Company Allows Easy Containment of Associated Teams and Employees by Employi
 Using This Structure, We Commit Many Unit Tests and Integration Tests Using Microsoft's Provided TestCase Library to Ensure Lavish Branch and Line Coverage of All Our Code.
 The Provided Version Also Includes The Utilization of the Moq Library for Moq Testing (in the code there may be some bloat for these Moq's to Work Properly).
 
-This Program Taught Me Way Too Much I Didn't Need To Know; I Created This Program Using A Ping-Pong Learning Strategy By Creating One Chunk of The Code in C#, then ported it quite 1:1 to
-C++. Then From C++ Back to C#. This Taught Me A Lot About The Languages and Differences From Pros and Cons Each Entail. While I Still Love C++ Development, C# Porting Taught Me A Lot About Some Interesting Use Cases and Applications That C# Could Help On
+This Program Taught Me Way Too Much I Didn't Need To Know; I Created This Program Using A Ping-Pong Learning Strategy By Creating One Chunk of The Code in C#, then ported it quite 1:1 <a href="https://github.com/Kingerthanu/CSharp_CompanyManagement">to C++</a>. Then From C++ Back to C#. This Taught Me A Lot About The Languages and Differences From Pros and Cons Each Entail. While I Still Love C++ Development, C# Porting Taught Me A Lot About Some Interesting Use Cases and Applications That C# Could Help On
 If I Want To Skip Some Annoying Corners of C++ While Still Having a General Upper Hand In Runtime and Data-Control Compared to Some Other Languages. 
