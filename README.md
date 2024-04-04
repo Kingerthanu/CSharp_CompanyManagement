@@ -3,7 +3,7 @@ This Program Works to Create Deep Hierachies Between Varying Interlinked Objects
 This Program Basically Boils Down to The Comparison Relation Between Skills of Either a Employee and a Task to Estimate The Execution Time of Task
 Based Upon Their Skill Differences For Shared Skills. 
 
-<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Blender + Fork = Yummers" width="220" height="380">
+<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Blender + Fork = Yummers" width="120" height="180">
 
 A Employee Will Be Granted Proficiency In a Skill Either During It's Hiring Process (Initialization)
 or By Doing Tasks, and Learning From Doing Their Associated Skills. This Means if a Task uses Skill 1 and Employee Doesn't Have Skill 1 in its SkillSet,
