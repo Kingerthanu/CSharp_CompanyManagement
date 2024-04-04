@@ -1,7 +1,11 @@
 # CSharp_CompanyManagement
 This Program Works to Create Deep Hierachies Between Varying Interlinked Objects Using Principles of Programming-by-Contract and Using a Practical Design Model of Companies and Their Management of Associated Teams and Employees in Order To Create A Robust CodeBase (revolutionary ik).
 This Program Basically Boils Down to The Comparison Relation Between Skills of Either a Employee and a Task to Estimate The Execution Time of Task
-Based Upon Their Skill Differences For Shared Skills. A Employee Will Be Granted Proficiency In a Skill Either During It's Hiring Process (Initialization)
+Based Upon Their Skill Differences For Shared Skills. 
+
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Blender + Fork = Yummers" width="120" height="90">
+
+A Employee Will Be Granted Proficiency In a Skill Either During It's Hiring Process (Initialization)
 or By Doing Tasks, and Learning From Doing Their Associated Skills. This Means if a Task uses Skill 1 and Employee Doesn't Have Skill 1 in its SkillSet,
 They Will Take Longer To Complete The Task, But Will Gain Some Proficiciency in it For Having Done Something Related to it (First Sight of A Skill Through
 A Task Will Start That Employee At Proficiency Level-1 For That Skill Always). After This Initial Sighting of The Skill, Proficiency Then Will Be Added In a Scale
