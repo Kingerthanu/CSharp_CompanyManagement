@@ -39,5 +39,7 @@ If I Want To Skip Some Annoying Corners of C++ While Still Having a General Uppe
 
 **Features:**
 
+<img width="1090" alt="image" src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/6d351b7b-ffe7-4d31-b227-5f3c3706c2a4">
+
 
 <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/0c3e31d3-1581-4c09-afa9-3e98f2602a97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/0c3e31d3-1581-4c09-afa9-3e98f2602a97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/0c3e31d3-1581-4c09-afa9-3e98f2602a97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/0c3e31d3-1581-4c09-afa9-3e98f2602a97" alt="Cornstarch <3" width="55" height="49">
