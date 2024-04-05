@@ -7,7 +7,7 @@ Based Upon Their Skill Differences For Shared Skills.
 
 ----------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/8129338e-56f7-4fcd-8187-b6d59a96830f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/8129338e-56f7-4fcd-8187-b6d59a96830f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/8129338e-56f7-4fcd-8187-b6d59a96830f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/8129338e-56f7-4fcd-8187-b6d59a96830f" alt="Cornstarch <3" width="55" height="49">
 
 
 **The Breakdown:**
