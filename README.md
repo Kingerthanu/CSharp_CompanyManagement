@@ -5,6 +5,13 @@ Based Upon Their Skill Differences For Shared Skills.
 
 <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Blender + Fork = Yummers" width="140" height="140">
 
+----------------------------------------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49">
+
+
+**The Breakdown:**
+
 A Employee Will Be Granted Proficiency In a Skill Either During It's Hiring Process (Initialization)
 or By Doing Tasks, and Learning From Doing Their Associated Skills. This Means if a Task uses Skill 1 and Employee Doesn't Have Skill 1 in its SkillSet,
 They Will Take Longer To Complete The Task, But Will Gain Some Proficiciency in it For Having Done Something Related to it (First Sight of A Skill Through
@@ -19,5 +26,9 @@ The Provided Version Also Includes The Utilization of the Moq Library for Moq Te
 
 This Program Taught Me Way Too Much I Didn't Need To Know; I Created This Program Using A Ping-Pong Learning Strategy By Creating One Chunk of The Code in C#, then ported it quite <a href="https://github.com/Kingerthanu/CPP_Dynamic_CompanyManagement">1:1 to C++</a>. Then From C++ Back to C#. This Taught Me A Lot About The Languages and Differences From Pros and Cons Each Entail. While I Still Love C++ Development, C# Porting Taught Me A Lot About Some Interesting Use Cases and Applications That C# Could Help On
 If I Want To Skip Some Annoying Corners of C++ While Still Having a General Upper Hand In Runtime and Data-Control Compared to Some Other Languages. 
+
+----------------------------------------------------------------------------
+
+**Features:**
 
 <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement/assets/76754592/f4438ddb-2039-4391-8f08-e488995e1658" alt="Cornstarch <3" width="185" height="149">
